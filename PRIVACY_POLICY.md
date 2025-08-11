@@ -1,10 +1,10 @@
-# Privacy Policy for Period Tracker
+# Privacy Policy for Goose Period Tracker
 
 **Last Updated: 08/10/2025**
 
 ## Overview
 
-Period Tracker is committed to protecting your privacy. This app is designed with privacy as the top priority - all your personal health data stays on your device.
+Goose Period Tracker is committed to protecting your privacy. This app is designed with privacy as the top priority - all your personal health data stays on your device.
 
 ## Data Collection
 
@@ -58,7 +58,7 @@ Period Tracker is committed to protecting your privacy. This app is designed wit
 
 ## Contact
 
-If you have questions about this privacy policy, please contact: [Your Email]
+If you have questions about this privacy policy, please contact: arjun.loganathan@gmail.com
 
 ## Changes to Privacy Policy
 
